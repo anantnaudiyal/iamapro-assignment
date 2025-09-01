@@ -7,7 +7,7 @@ import Packages from './Component/Packages';
 import Fitness from './Component/Fitness';
 import Exceptional from './Component/Exceptional';
 import Restaurant from './Component/Restaurant';
-import Company from './Component/company';
+import Company from './Component/Company';
 import Footer from './Component/Footer';
 function App() {
   return (
