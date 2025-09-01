@@ -12,9 +12,8 @@ Welcome to the official repository for the **Hotel Royal Phoenicia** landing pag
 
 ## 📸 Project Preview
 
-*(It's highly recommended to add a screenshot or a GIF of your final project here!)*
 
-![Hotel Royal Phoenicia Screenshot](https://via.placeholder.com/800x450.png?text=Your+Project+Screenshot)
+![Hotel Royal Phoenicia Screenshot]([https://via.placeholder.com/800x450.png](https://ibb.co/KxgKSDZN)?text=Your+Project+Screenshot)
 
 
 ---
