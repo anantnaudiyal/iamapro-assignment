@@ -46,7 +46,7 @@ This project follows a logical, component-based structure to ensure scalability 
 ### Component Tree
 
 This tree is a direct representation of the component structure, showing how components are nested to build the final UI.
-
+```text
 <App>
 └── <Homepage>
 ├── <Navbar>
