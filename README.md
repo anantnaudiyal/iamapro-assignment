@@ -6,7 +6,7 @@
 
 Welcome to the official repository for the **Hotel Royal Phoenicia** landing page. This project is a stunning, responsive, and modern user interface built with React, designed to capture the elegance and luxury of the brand.
 
-### ✨ [View Live Demo](https://your-live-demo-link.com) `(<- Add your deployment link here!)`
+### ✨ [View Live Demo](https://iamapro-assignment-seven.vercel.app/)
 
 ---
 
