@@ -13,7 +13,7 @@ Welcome to the official repository for the **Hotel Royal Phoenicia** landing pag
 ## 📸 Project Preview
 
 
-![Hotel Royal Phoenicia Screenshot](https://i.ibb.co/KxgKSDZN/Screenshot-2025-09-01-125946.png)
+<img src="https://i.ibb.co/KxgKSDZN/Screenshot-2025-09-01-125946.png" alt="Hotel Royal Phoenicia Screenshot" style="max-width:100%; height:auto;">
 
 
 
