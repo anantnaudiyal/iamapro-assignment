@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../Component/hero.css';
+import '../Component/Hero.css';
 import { MdKeyboardArrowRight } from "react-icons/md";
 import img1 from '../Images/1st-person.png';
 import img2 from '../Images/2nd-person.png';
